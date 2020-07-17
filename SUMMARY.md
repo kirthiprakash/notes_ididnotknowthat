@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [I did not know that before =&gt; Now I know!](README.md)
 
 ## LINUX
 
