@@ -20,3 +20,8 @@
 
 * [Nth root of a number](a-and-ds/nth-root-of-a-number.md)
 
+## Web
+
+* [HTML](web/html/README.md)
+  * [editablecontent](web/html/editablecontent.md)
+
