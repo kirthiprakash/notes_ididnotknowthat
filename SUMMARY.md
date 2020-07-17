@@ -16,3 +16,7 @@
 
 * [TCP Idle Port scanning \(NMAP\)](cyber-sec/tcp-idle-port-scanning-nmap.md)
 
+## Algorithms <a id="a-and-ds"></a>
+
+* [Nth root of a number](a-and-ds/nth-root-of-a-number.md)
+
