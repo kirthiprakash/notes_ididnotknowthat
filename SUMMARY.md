@@ -11,6 +11,8 @@
 
 * [Docker in docker \(dind\)](docker/docker-in-docker-dind.md)
 * [Multi platform and Multi Arch](docker/multi-platform-and-multi-arch.md)
+* [Container Image format](docker/container-image-format/README.md)
+  * [whiteout files](docker/container-image-format/whiteout-files.md)
 
 ## Cyber sec
 
