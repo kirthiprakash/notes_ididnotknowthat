@@ -1,3 +1,7 @@
+---
+description: 'https://sudokpr.gitbook.io/i-didn-t-know-that-before/'
+---
+
 # I did not know that before =&gt; Now I know!
 
 Notes on stuff I stumble upon which I din't know till now. 
