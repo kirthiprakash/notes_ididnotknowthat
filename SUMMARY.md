@@ -27,3 +27,7 @@
 * [HTML](web/html/README.md)
   * [editablecontent](web/html/editablecontent.md)
 
+## Python
+
+* [Max Recursion Depth](python/max-recursion-depth.md)
+
