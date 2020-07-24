@@ -151,3 +151,9 @@ Image IDs are formed by taking a hash of the image's configuration object in JSO
 
 The configation object contains the history, the commands used to build the objects and the digests of the layer diffs. Each command in the Dockerfile corresponds to a layer. There may be a scenario where the number of history items are more than the number of layer diffs. If a command is a no-op, which doesn't change anything in the file system \(EXPOSE 80, SET ENTRYPOINT etc.\), it will not add to a new layer.
 
+The layer diffs are calculated by performing a digest on the archived layer contents.
+
+`<digest algorithm>:<digest>`
+
+\`\`
+
