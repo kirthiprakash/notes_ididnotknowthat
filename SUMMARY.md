@@ -28,7 +28,9 @@
 * [HTML](web/html/README.md)
   * [editablecontent](web/html/editablecontent.md)
 
-## Python
+## Languages
 
-* [Max Recursion Depth](python/max-recursion-depth.md)
+* [Python](languages/python/README.md)
+  * [Max Recursion Depth](languages/python/max-recursion-depth.md)
+* [Rust](languages/rust.md)
 
