@@ -30,7 +30,11 @@
 
 ## Languages
 
-* [Python](languages/python/README.md)
-  * [Max Recursion Depth](languages/python/max-recursion-depth.md)
-* [Rust](languages/rust.md)
+* [Python](languages/python.md)
+
+## META
+
+* [Max Recursion Depth](meta/max-recursion-depth.md)
+* [TODO](meta/todo.md)
+* [Rust](meta/rust.md)
 
