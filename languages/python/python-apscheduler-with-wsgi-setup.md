@@ -16,3 +16,9 @@ In gunicorn wsgi server, the option `--preload` flag does the above.
 
 We also need to make sure that the jobstore is anything other than memory.
 
+{% embed url="https://github.com/viniciuschiele/flask-apscheduler/issues/87\#issuecomment-522614356" %}
+
+The above link suggests usage of gunicorn's [http://docs.gunicorn.org/en/stable/settings.html\#when-ready](http://docs.gunicorn.org/en/stable/settings.html#when-ready) config
+
+
+
