@@ -31,6 +31,7 @@
 ## Languages
 
 * [Rust](languages/rust.md)
+* [json serialization](languages/json-serialization.md)
 * [Python](languages/python/README.md)
   * [Max Recursion Depth](languages/python/max-recursion-depth.md)
   * [Python APScheduler with wsgi setup](languages/python/python-apscheduler-with-wsgi-setup.md)
