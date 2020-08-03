@@ -40,3 +40,7 @@
 
 * [TODO](meta/todo.md)
 
+## RDBMS
+
+* [Group By results, with other columns](rdbms/group-by-results-with-other-columns.md)
+
