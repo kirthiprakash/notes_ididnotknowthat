@@ -6,4 +6,5 @@
 * [ ] Domain Oriented Microservice Arch [https://eng.uber.com/microservice-architecture/](https://eng.uber.com/microservice-architecture/)
 * [ ] buffer overflow exploits
 * [ ] TLS finger printing and its applications
+* [ ] explore prometheus
 
