@@ -7,4 +7,5 @@
 * [ ] buffer overflow exploits
 * [ ] TLS finger printing and its applications
 * [ ] explore prometheus
+* [ ] Chrome Developer tools, break on sub tree modification
 
