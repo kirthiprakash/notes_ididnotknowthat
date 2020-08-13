@@ -8,4 +8,5 @@
 * [ ] TLS finger printing and its applications
 * [ ] explore prometheus
 * [ ] Chrome Developer tools, break on sub tree modification
+* [ ] Gold rate is influenced by low interest rates and bad economy. 
 
