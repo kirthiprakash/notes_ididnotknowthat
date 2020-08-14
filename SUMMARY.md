@@ -25,8 +25,9 @@
 
 ## Web
 
-* [HTML](web/html/README.md)
+* [HTML, CSS](web/html/README.md)
   * [editablecontent](web/html/editablecontent.md)
+  * [\[CSS\] whitespace](web/html/css-whitespace.md)
 
 ## Languages
 
