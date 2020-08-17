@@ -18,7 +18,7 @@
 ## Cyber sec
 
 * [TCP Idle Port scanning \(NMAP\)](cyber-sec/tcp-idle-port-scanning-nmap.md)
-* [CVE Scanning](cyber-sec/cve-scanning.md)
+* [Clair vulnerability Scan on a host](cyber-sec/cve-scanning.md)
 
 ## Algorithms <a id="a-and-ds"></a>
 
