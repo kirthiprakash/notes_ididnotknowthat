@@ -50,3 +50,11 @@
 
 * [Tmux](productivity/tmux.md)
 
+## Finance
+
+* [Gold rate trends](finance/gold-rate-trends.md)
+
+## Do It Yourself
+
+* [Water level controller installation](do-it-yourself/water-level-controller-installation.md)
+
