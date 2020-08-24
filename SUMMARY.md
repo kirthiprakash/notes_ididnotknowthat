@@ -6,6 +6,7 @@
 
 * [$XDG\_RUNTIME\_DIR](linux/usdxdg_runtime_dir.md)
 * [Linux namespaces - Network](linux/linux-namespaces-network.md)
+* [Message an user at terminal device](linux/message-an-user-at-terminal-device.md)
 
 ## Docker
 
@@ -33,8 +34,8 @@
 ## Languages
 
 * [Rust](languages/rust.md)
-* [json serialization](languages/json-serialization.md)
 * [Python](languages/python/README.md)
+  * [json serialization](languages/python/json-serialization.md)
   * [Max Recursion Depth](languages/python/max-recursion-depth.md)
   * [Python APScheduler with wsgi setup](languages/python/python-apscheduler-with-wsgi-setup.md)
 
@@ -49,6 +50,8 @@
 ## Productivity
 
 * [Tmux](productivity/tmux.md)
+* [Monitoring logs on a different terminal device](productivity/monitoring-logs-on-a-different-terminal-device.md)
+* [My vimrc](productivity/my-vimrc.md)
 
 ## Finance
 
