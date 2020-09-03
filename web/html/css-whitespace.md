@@ -6,7 +6,7 @@ description: 'ref: https://developer.mozilla.org/en-US/docs/Web/CSS/white-space'
 
 To preserve a whitespace characters \(newline \n, spaces and tabs\), we can apply the whitespace CSS property.
 
-If a text has a lot of  \n we HTML won't preserve this. To break a line, we have to use &lt;br&gt; tag.
+If a text has a lot of  \n HTML won't preserve this. To break a line, we have to use &lt;br&gt; tag.
 
 Using CSS, we can apply `whitespace: pre-line` property to preserve the newline characters
 
