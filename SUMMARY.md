@@ -61,3 +61,7 @@
 
 * [Water level controller installation](do-it-yourself/water-level-controller-installation.md)
 
+## Android
+
+* [Android Firewall - Block internet for select apps](android/android-firewall-block-internet-for-select-apps.md)
+
