@@ -1,4 +1,4 @@
-# Vim configurations
+# Vim configurations and Ex Commands
 
 ```text
 Change buffer without saving changes
