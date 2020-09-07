@@ -97,8 +97,25 @@ q/
 ```
 
 ```text
-# what is setlocal?
+set configurations which apply to the current buffer
+:setlocal
+
+TODO:
+Find out how this applies when applied from a vimrc file.
 ```
 
+```text
+# open a terminal inside VIM
+:term
+:vert term
+```
 
+```text
+# copy
+:<range>co <address>
+:<range>t <address>
+
+# copy line matching the search keyword to the current line
+:?<searchkey>?t.
+```
 
