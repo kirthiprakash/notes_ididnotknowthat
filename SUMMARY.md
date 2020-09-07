@@ -52,6 +52,7 @@
 * [Tmux](productivity/tmux.md)
 * [Monitoring logs on a different terminal device](productivity/monitoring-logs-on-a-different-terminal-device.md)
 * [My vimrc](productivity/my-vimrc.md)
+* [Vim configurations](productivity/vim-configurations.md)
 
 ## Finance
 
