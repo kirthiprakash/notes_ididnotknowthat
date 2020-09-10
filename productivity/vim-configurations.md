@@ -1,4 +1,4 @@
-# Vim configurations and Ex Commands
+# Vim configurations, Mappings and Ex Commands
 
 ```text
 Change buffer without saving changes
@@ -124,5 +124,8 @@ Find out how this applies when applied from a vimrc file.
 ```text
 # jump to a file under current cursor position
 gf
+
+# set suffixes if missing
+:set suffixesadd+=.js
 ```
 
