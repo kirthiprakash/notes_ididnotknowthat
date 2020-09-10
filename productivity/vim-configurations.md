@@ -119,3 +119,10 @@ Find out how this applies when applied from a vimrc file.
 :?<searchkey>?t.
 ```
 
+### Mappings
+
+```text
+# jump to a file under current cursor position
+gf
+```
+
