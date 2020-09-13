@@ -119,6 +119,15 @@ Find out how this applies when applied from a vimrc file.
 :?<searchkey>?t.
 ```
 
+```text
+# define a regex to match the imports for any language
+:set inlcude=^\s*from\s*\w*import\s*
+:set suffixesadd=.js
+
+# jump the first match on the current keyword
+:ij <keyword>
+```
+
 ### Mappings
 
 ```text
@@ -127,5 +136,22 @@ gf
 
 # set suffixes if missing
 :set suffixesadd+=.js
+```
+
+```text
+# show 1st match of keyword under cursor
+[i
+
+# show all line that match the keyword under cursor
+[I
+
+# jump to the first line that matches the keyword under cursor
+[ ctrl-I
+
+# jump to the 2nd matched line for the keyword under cursor
+2[ctrl-I
+
+# keybowrd mapping for interactive jump to matched line
+map <F4> [I:let nr = input("Which one: ")<Bar>exe "normal " . nr ."[\t"<CR>
 ```
 
