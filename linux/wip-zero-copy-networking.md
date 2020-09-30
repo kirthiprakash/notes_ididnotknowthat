@@ -8,7 +8,7 @@ Linux system calls like `splice`, `sendfile` support zero-copy mechanism and imp
 
 ### References
 
-https://www.linuxjournal.com/article/6345
+[https://www.linuxjournal.com/article/6345](https://www.linuxjournal.com/article/6345)
 
 {% embed url="https://lwn.net/Articles/726917/" %}
 
