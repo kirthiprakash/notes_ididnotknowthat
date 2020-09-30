@@ -6,3 +6,11 @@ We can avoid the round trip to the userspace by using specfic system calls which
 
 Linux system calls like `splice`, `sendfile` support zero-copy mechanism and improves I/O performance.
 
+### References
+
+[https://www.linuxjournal.com/article/6345](https://www.linuxjournal.com/article/6345)
+
+{% embed url="https://lwn.net/Articles/726917/" %}
+
+
+
