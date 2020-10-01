@@ -40,10 +40,6 @@
   * [Max Recursion Depth](languages/python/max-recursion-depth.md)
   * [Python APScheduler with wsgi setup](languages/python/python-apscheduler-with-wsgi-setup.md)
 
-## META
-
-* [TODO](meta/todo.md)
-
 ## RDBMS
 
 * [Group By results, with other columns](rdbms/group-by-results-with-other-columns.md)
@@ -66,4 +62,8 @@
 ## Android
 
 * [Android Firewall - Block internet for select apps](android/android-firewall-block-internet-for-select-apps.md)
+
+## META
+
+* [TODO](meta/todo.md)
 
