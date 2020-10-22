@@ -16,4 +16,5 @@
 * [ ] Open Connect authorization flow for CLIs
 * [ ] Graph databases - Neo4j
 * [ ] Javascript promise and generators [https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435](https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435)
+* [ ] Javascript Map
 
