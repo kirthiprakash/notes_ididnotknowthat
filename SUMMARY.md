@@ -67,3 +67,7 @@
 
 * [TODO](meta/todo.md)
 
+## Software Engineering
+
+* [Serialization and transfers](software-engineering/serialization-and-transfers.md)
+
