@@ -12,3 +12,15 @@ In Node application, only package.json \(all its related lock files\) needs to b
 
 In Python applications, the requirement.txt file alone needs to be copied.
 
+The build tool also provides an option to skip cache with the `--no-cache` during docker build command
+
+```text
+docker build -t repo/imagename --no-cache
+```
+
+The `FROM` command is the only command to ignore the --no-cache, but the force pull newer images we can pass the `--pull` flag
+
+```text
+docker build -t repo/imagename --pull
+```
+
