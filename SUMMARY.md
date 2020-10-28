@@ -32,6 +32,7 @@
 * [HTML, CSS](web/html/README.md)
   * [editablecontent](web/html/editablecontent.md)
   * [\[CSS\] whitespace](web/html/css-whitespace.md)
+  * [CSS Outline property](web/html/css-outline-property.md)
 
 ## Languages
 
