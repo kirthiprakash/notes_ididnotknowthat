@@ -17,4 +17,5 @@
 * [ ] Graph databases - Neo4j
 * [ ] Javascript promise and generators [https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435](https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435)
 * [ ] Javascript Map
+* [ ] Named pipe [https://www.youtube.com/watch?v=6lik\_f1Vp54](https://www.youtube.com/watch?v=6lik_f1Vp54)
 
