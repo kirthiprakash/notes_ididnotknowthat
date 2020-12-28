@@ -8,6 +8,7 @@
 * [Linux namespaces - Network](linux/linux-namespaces-network.md)
 * [Message an user at terminal device](linux/message-an-user-at-terminal-device.md)
 * [\[WIP\] Zero Copy Networking](linux/wip-zero-copy-networking.md)
+* [$HISTCONTROL](linux/usdhistcontrol.md)
 
 ## Docker
 
