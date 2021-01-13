@@ -38,6 +38,7 @@
 ## Languages
 
 * [Golang](languages/golang/README.md)
+  * [Check nil interface value](languages/golang/check-nil-interface-value.md)
   * [A generic function parameter for initialisation](languages/golang/a-generic-function-parameter-for-initialisation.md)
 * [Rust](languages/rust.md)
 * [Python](languages/python/README.md)
