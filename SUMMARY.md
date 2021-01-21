@@ -40,6 +40,7 @@
 * [Golang](languages/golang/README.md)
   * [Check nil interface value](languages/golang/check-nil-interface-value.md)
   * [A generic function parameter for initialisation](languages/golang/a-generic-function-parameter-for-initialisation.md)
+  * [\[WIP\]Map of empty struct values](languages/golang/wip-map-of-empty-struct-values.md)
 * [Rust](languages/rust.md)
 * [Python](languages/python/README.md)
   * [json serialization](languages/python/json-serialization.md)
