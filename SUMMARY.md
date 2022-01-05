@@ -64,6 +64,7 @@
 ## Finance
 
 * [Gold rate trends](finance/gold-rate-trends.md)
+* [Automobile industry](finance/automobile-industry.md)
 
 ## Do It Yourself
 
