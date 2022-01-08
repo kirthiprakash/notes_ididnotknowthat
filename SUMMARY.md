@@ -11,6 +11,7 @@
 * [$HISTCONTROL](linux/usdhistcontrol.md)
 * [Resource limits for Services](linux/resource-limits-for-services.md)
 * [& nohup and disown](linux/and-nohup-and-disown.md)
+* [Multiple git identities](linux/multiple-git-identities.md)
 
 ## Docker
 
