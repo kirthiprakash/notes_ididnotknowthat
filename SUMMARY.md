@@ -82,8 +82,3 @@
 ## Software Engineering
 
 * [Serialization and transfers](software-engineering/serialization-and-transfers.md)
-
-## 🚘 Automobiles
-
-* [Wheel balancing and alignment](automobiles/wheel-balancing-and-alignment.md)
-* [Car exterior and interior detailing](automobiles/car-exterior-and-interior-detailing.md)
