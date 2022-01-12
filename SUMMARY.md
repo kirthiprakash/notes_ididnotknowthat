@@ -82,3 +82,7 @@
 ## Software Engineering
 
 * [Serialization and transfers](software-engineering/serialization-and-transfers.md)
+
+## Miscellaneous
+
+* [Podcasts Jan 2022](miscellaneous/podcasts-jan-2022.md)
