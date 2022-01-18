@@ -19,3 +19,9 @@ description: TILs from daily podcast listening
 > Cape town cutting down on 250 sq miles of pine tree forest to conserve water and be available for the city's consumption
 >
 > #### Unsung Science
+
+> Blind people doesn't always mean total blindness. Some people can still perceive light and colors.
+>
+> There are companies working on audio descriptions for movies and tv shows for the blind
+>
+> **Unsung science**
