@@ -69,6 +69,7 @@
 
 ## Do It Yourself
 
+* [Waterproofing adjacent walls](do-it-yourself/waterproofing-adjacent-walls.md)
 * [Water level controller installation](do-it-yourself/water-level-controller-installation.md)
 
 ## Android
